@@ -1,8 +1,5 @@
  <div align="center">
 
-# `> Kumar Jitin`
-
-**Software Engineer · CS Undergraduate · Builder**
 
 </div>
 
