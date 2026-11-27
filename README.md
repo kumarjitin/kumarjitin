@@ -48,7 +48,7 @@
 
 Computer Science Undergraduate · Builder
 
-Building practical software, exploring AI/ML, and learning by creating.
+Building practical software, implementing AI/ML, and learning by creating.
 
 
 ### Current Focus
@@ -58,8 +58,8 @@ Building practical software, exploring AI/ML, and learning by creating.
 - Research & Experimentation
 
 ### Research Work <br>
-Published: 2 Conference Paper, 1 Book Chapter. <br>
-In Process: 1 Journal paper, 1 Book Chapter, 1 Patent.
+Published: 2 Conference Paper, 1 Book Ch. <br>
+In Process: 1 Journal paper, 1 Book Ch, 1 Patent.
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,nodejs,react,mongodb,mysql,git" />
