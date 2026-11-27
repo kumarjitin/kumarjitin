@@ -53,9 +53,8 @@ Building practical software, implementing AI/ML, and learning by creating.
 
 ### Current Focus
 
-- Software Engineering
+- Software Engineering in full stack development
 - Artificial Intelligence & Machine Learning
-- Research & Experimentation
 
 ### Research Work <br>
 Published: 2 Conference Paper, 1 Book Ch. <br>
